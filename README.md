@@ -28,7 +28,7 @@ Le projet inclut également un exécutable autonome (`generateur_id.exe`) pour l
 1. Clonez ce dépôt :
 
 ```bash
-git clone <URL_DU_DEPOT>
+git clone <https://github.com/Occjtzn/ScriptID>
 ```
 
 2. Installez les dépendances nécessaires :
